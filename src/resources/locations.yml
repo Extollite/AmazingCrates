@@ -1,0 +1,6 @@
+1:
+  world: "world"
+  x: 10
+  y: 5
+  z: 10
+  crate: "vote"

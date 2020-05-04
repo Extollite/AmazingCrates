@@ -1,0 +1,6 @@
+vote:
+  name: "Vote key"
+  lore:
+    - "Use this coupon"
+    - "To open vote crate"
+  id: 319

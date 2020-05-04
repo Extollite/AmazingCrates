@@ -1,0 +1,13 @@
+prefix: "§6[AmazingCrates]§f "
+giveMessage: "You received key %key_name%!"
+openMessage: "%player_name% opened %crate_name%!"
+chanceName: "Chance: "
+# Set for how long you want the task to run. Increasing this value will increase the
+# time taken for the player to earn the reward and vice versa.
+# Recommended to set it to 2.
+# Enter the value in seconds.
+tickDelay: 2
+
+# Adjust the speed of how fast the items move inside the chest.
+# Recommended to set it to 5.
+scrollSpeed: 5

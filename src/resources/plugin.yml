@@ -1,0 +1,21 @@
+name: AmazingCrates
+main: pl.extollite.amazingcrates.AmazingCrates
+version: "${pom.version}"
+api: ["1.0.9"]
+load: POSTWORLD
+authors: ["Extollite"]
+description: Nukkit crates plugin
+prefix: "AmazingCrates"
+depend:
+  - FakeInventories
+
+permissions:
+  key.command:
+    description: "key command permission"
+    default: op
+  crate.command:
+    description: "crate creation permission"
+    default: op
+
+
+
